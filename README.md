@@ -1,5 +1,3 @@
-
-
 The dataset, "Bank Personal Loan Modelling", contains 14 columns and 5000 entries. Here is a brief explanation of its structure and potential target:
 
 Key Columns:
